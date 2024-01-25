@@ -21,5 +21,5 @@ style.scss - this file contains the sass styling
 
 images - this folder contains any images used on the site
 
-
+lab0_ChatGPT_Usage - this document contains questions I asked ChatGPT and any other references I used to help complete my website
 
